@@ -1,0 +1,24 @@
+1.
+Diff helps spot differences between lines of code; and therfore easier to spot bugs.
+That said it was not the most understandable and there are better ways to compare files which highlight the changes.
+
+2.
+Having easy access to file history could help me avoid writing duplicate code as well as save time debugging.
+If I know that a specific file is working than I can deduce that a new bug would be the direct result of code
+I added afterwards.
+
+3.
+Pro - more meaningful saves and easier to keep track of where changes happend - versions
+Con - can forget to manually save and therfore lose changes made, where as automatically there is no worries but the saves are less meaningful.
+
+4.
+Saving multiple files makes logical sense when creating versions of projects, since each version needs all of the files to work properly.
+where as google docs is more about savign documents and papers which do not rely on other docs to operate.
+
+5.
+With version control I can save a working copy of my program and then proceed to make whatever changes I want with the knowledge
+that if any bugs appear I could always revert back to my original version
+
+6.
+Solving my homework smarter - meaning actually saving versions of programs after every change instead of writing all of the code at one
+this way debugging would be way easier and in the long run much easier to understand the chagnes and the code.
